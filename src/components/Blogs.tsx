@@ -19,7 +19,7 @@ interface Blog {
   excerpt: "A technical deep dive into the OWASP Top 10 for LLM Applications 2025, with a focus on LLM08 (Vector & Embedding Weaknesses) and LLM10 (Unbounded Consumption).",
   author: "aymaan-balbale",
   tags: ["OWASP", "LLM Security", "AI Security", "RAG", "Prompt Injection", "AppSec"],
-  image: "Image1.png"
+  image: "blogs/img/owasp-top-10-llm-2025/Image1.png"
   },  
   {
   slug: "prompt-injection-rag-agents",
@@ -27,7 +27,7 @@ interface Blog {
   excerpt: "How attacker-controlled content in RAG pipelines and tool-using agents crosses the trust boundary — from indirect injection through retrieved documents to tool abuse and data exfiltration.",
   author: "aymaan-balbale",
   tags: ["prompt-injection", "rag", "ai-agents", "llm-security", "appsec"],
-  image: "https://raw.githubusercontent.com/<your-org>/<repo>/main/images/prompt-injection-rag-agents/attack-chain.jpg",
+  image: "blob/main/public/blogs/img/prompt-injection-rag-agents/Image1.png",
   },  
   {
     slug: 'bir-sqli-saldirisini-access-logda-nasil-okursunuz',
